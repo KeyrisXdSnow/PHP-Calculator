@@ -13,3 +13,7 @@
 ### result :
 ####  1 + -2 - -3 + +4 = 6
 ####  {1}{2}{3}{4}Sum = 10
+### expression :
+#### 0.1 + 2 - 3 + 4h - 0.000.8
+### result : 
+#### 4h is incorrect 0.000.8 is incorrect
