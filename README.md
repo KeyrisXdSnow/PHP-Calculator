@@ -1,9 +1,11 @@
 # PHP-Calculator
-##Program can :
-###1. Сalculate the sum of the numeric characters of an expression ;
-###2. Calculate the sum of the character of an expression. 
-####- Supported operations [+] and [-], fractional numbers, sign numbers ;
-###3. Verify correctness.
+##P rogram can :
+### 1. Сalculate the sum of the numeric characters of an expression ;
+### 2. Calculate the sum of the character of an expression. 
+#### - Supported operations [+] and [-] ;
+#### - Supported fractional numbers ;
+#### - Supported sign numbers.
+### 3. Verify correctness.
 
 Example correct string :
 expression :
