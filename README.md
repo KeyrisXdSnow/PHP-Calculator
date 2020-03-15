@@ -1,5 +1,7 @@
 # PHP-Calculator
-## Program can :
+
+## Program is implemented without regular expressions in accordance with the technical requirement.
+## Calculator can :
 ### 1. Сalculate the sum of the numeric characters of an expression ;
 ### 2. Calculate the sum of the character of an expression. 
 #### - Supported operations [+] and [-] ;
